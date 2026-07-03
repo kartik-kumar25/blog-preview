@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="images/screenshot.png" alt=""screenshot>
+<img src="images/screenshot.png" alt="screenshot">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/kartikhullannavar25-hub/blog-preview.git
+- Live Site URL: https://kartikhullannavar25-hub.github.io/blog-preview/
 
 ## My process
 
